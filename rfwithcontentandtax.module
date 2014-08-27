@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the rfwithcontentandtax feature.
+ */
+
+include_once 'rfwithcontentandtax.features.inc';
